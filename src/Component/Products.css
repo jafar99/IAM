@@ -1,0 +1,92 @@
+.Product {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    margin: 30px 0px 0px 0px ;
+}
+
+.productRow {
+    margin-left: 130px;
+}
+
+.productimg {
+    height: 501px;
+    margin: 120px 120px 80px 60px;
+}
+
+.productname {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 24px;
+    /* or 80% */
+    color: #000000;
+
+
+}
+
+.productdesc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 24px;
+    /* or 160% */
+
+
+    color: #000000;
+}
+
+.productbtn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 23px;
+    line-height: 24px;
+    /* identical to box height, or 114% */
+
+
+    color: rgba(255, 0, 0, 0.91);
+}
+
+.arrow{
+    height: 0px;
+}
+
+.product1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 37px;
+line-height: 24px;
+/* identical to box height, or 65% */
+
+color: #000000;
+padding: 10px;
+
+}
+
+.productRow1{
+    margin: 170px 30px 30px 40px ;
+}
+
+.productdesc2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 160%;
+/* or 26px */
+
+
+color: #565656;
+}
+
+.list{
+    font-size: 22px;
+    padding: 30px;
+}
+
+.list:hover{
+    color: #FF0000;
+}

@@ -2,12 +2,12 @@ import React from 'react'
 import Navbar from './Navbar'
 import { Row, Col } from 'antd'
 import '../Component/Home.css'
-import Services from './Services'
+
 
 const Home = () => {
   return (
     <div className='homepage'>
-      <Navbar />
+     
 
     <div >
       <Row className='home'>
@@ -46,7 +46,8 @@ const Home = () => {
 
 
       </div>
-      <Services/>
+    
+
     </div>
   )
 }

@@ -1,12 +1,13 @@
 import React from 'react'
 import { Row, Col } from 'antd'
 import '../Component/Services.css'
+import Products from './Products'
 
 const Services = () => {
     return (
-        <div className='service'>
+        <div className='servicepage'>
 
-            <Row>
+            <Row className='service'>
                 <Col span={11} >
                     <div className='serviceCard'>
                         <h1 style={{fontSize:"50px"}}>SERVICES</h1>
@@ -16,7 +17,7 @@ const Services = () => {
                             online business services.</p>
                     </div>
                 </Col>
-                <Col span={12} style={{marginLeft:"60px"}} >
+                <Col span={11} style={{margin:"0px 0px 0px 140px"}} >
                     <Row className='row'>
                         <Col className='Card'>
                             
@@ -88,6 +89,9 @@ const Services = () => {
                     </Row>
                 </Col>
             </Row>
+
+
+         
 
         </div>
     )
