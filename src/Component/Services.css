@@ -1,0 +1,184 @@
+.service{
+    margin: 115px;
+
+}
+
+.Card {
+
+    margin-top: 15px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    height: 20rem;
+    text-align: center;
+    display: grid;
+    margin: 5rem 2rem 0rem 0rem;
+    width: 260px;
+    -ms-grid-row-align: center;
+}
+
+.Card23 {
+
+    margin-top: 15px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    height: 20rem;
+    text-align: center;
+    display: grid;
+    margin: 10px;
+    width: 260px;
+    -ms-grid-row-align: center;
+}
+
+
+
+.logo {
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.logoimg {
+    background-color: #DEFEEE;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 25px;
+    padding-top: 25px;
+    width: 98px;
+    height: 65px;
+
+}
+.data{
+    font-size: 22px;
+    justify-content: center;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.data1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 160%;
+/* or 19px */
+
+text-align: center;
+
+color: #565656;
+    
+    padding:  0px 25px;
+}
+
+
+
+
+.Card1 {
+
+    margin-top: 15px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    height: 20rem;
+    text-align: center;
+    display: grid;
+    margin: 5rem 2rem 0rem 0rem;
+    width: 260px;
+    
+    -ms-grid-row-align: center;
+}
+
+.Card12 {
+
+    margin-top: 15px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 40px;
+    height: 20rem;
+    text-align: center;
+    display: grid;
+    width: 260px;
+    
+    -ms-grid-row-align: center;
+}
+
+
+
+.logo1 {
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.logoimg1 {
+    background: #FFF2F8;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 25px;
+    padding-top: 25px;
+    width: 98px;
+    height: 65px;
+
+}
+
+.logoimg2 {
+    background: #F1F7FF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 25px;
+    padding-top: 25px;
+    width: 98px;
+    height: 65px;
+
+}
+
+.logoimg3 {
+    background: #FFF7E3;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 25px;
+    padding-top: 25px;
+    width: 98px;
+    height: 65px;
+
+}
+.data2{
+    font-size: 22px;
+    justify-content: center;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.data3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 160%;
+    /* or 19px */
+    
+    text-align: center;
+    
+    color: #565656;
+        
+        padding:  0px 25px;
+}
+
+.serviceCard{
+    margin: 230px 100px 0px 100px;
+}
+
+.para{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 26px */
+
+
+color: #565656;
+}

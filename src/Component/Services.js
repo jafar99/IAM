@@ -3,27 +3,94 @@ import { Row, Col } from 'antd'
 import '../Component/Services.css'
 
 const Services = () => {
-  return (
-    <div>
+    return (
+        <div className='service'>
 
-        <Row>
-            <Col span={12}>
-                <div>
-                <h1>SERVICES</h1>
-                <p>We build readymade websites, 
-                    mobile applications, and elaborate 
-                    online business services.</p>
-                </div>
-            </Col>
-            <Col span={12}>
-                <Row>
-                        
-                </Row>
-            </Col>
-        </Row>
+            <Row>
+                <Col span={11} >
+                    <div className='serviceCard'>
+                        <h1 style={{fontSize:"50px"}}>SERVICES</h1>
+                        <hr style={{marginRight:"2%", borderTop: "1px solid red"}} />
+                        <p className='para'>We build readymade websites,
+                            mobile applications, and elaborate
+                            online business services.</p>
+                    </div>
+                </Col>
+                <Col span={12} style={{marginLeft:"60px"}} >
+                    <Row className='row'>
+                        <Col className='Card'>
+                            
+                            <Row className='logo'>
+                                <div className='logoimg'>
+                                <img src="./1.svg" alt="" />
+                                </div>
+                            </Row>
+                            <Row className='data'>
+                                Energy Saving
+                            </Row>
+                            <Row className='data1'> 
+                                We build readymade websites,
+                                mobile applications.
+                            </Row>
+                        </Col>
 
-    </div>
-  )
+                        <Col className='Card23'>
+                            
+                            <Row className='logo'>
+                                <div className='logoimg1'>
+                                <img src="./2.svg" alt="" />
+                                </div>
+                            </Row>
+                            <Row className='data'>
+                                Energy Saving
+                            </Row>
+                            <Row className='data1'> 
+                                We build readymade websites,
+                                mobile applications.
+                            </Row>
+                        </Col>
+                        <Col></Col>
+                    </Row>
+
+                    <Row className='row1'>
+                        <Col className='Card1'>
+                            
+                            <Row className='logo1'>
+                                <div className='logoimg2'>
+                                <img src="./3.svg" alt="" />
+                                </div>
+                            </Row>
+                            <Row className='data2'>
+                                Energy Saving
+                            </Row>
+                            <Row className='data3'> 
+                                We build readymade websites,
+                                mobile applications.
+                            </Row>
+                        </Col>
+
+                        <Col className='Card12'>
+                            
+                            <Row className='logo1'>
+                                <div className='logoimg3'>
+                                <img src="./4.svg" alt="" />
+                                </div>
+                            </Row>
+                            <Row className='data2'>
+                                Energy Saving
+                            </Row>
+                            <Row className='data3'> 
+                                We build readymade websites,
+                                mobile applications.
+                            </Row>
+                        </Col>
+                        <Col></Col>
+                    </Row>
+                </Col>
+            </Row>
+
+        </div>
+    )
 }
 
 export default Services

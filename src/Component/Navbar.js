@@ -5,9 +5,11 @@ const Navbar = () => {
   return (
     <div>
         <div className='navbar'>
+          
            <div >
               <img src="./KIAM 1.png" alt="" className='img' />
            </div>
+           
            <div>
                  <ul className='menu'>
                   <li className='nav'>Home</li>
