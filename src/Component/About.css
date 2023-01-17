@@ -1,0 +1,110 @@
+.about {
+
+    margin-top: 70px;
+
+
+
+}
+
+.firstarow {
+
+    justify-content: center;
+
+
+}
+
+.Aheading {
+    font-size: 2rem;
+    margin: 0 auto;
+    font-weight: 600;
+}
+
+.year {
+    padding: 20px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.Apara {
+    padding: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+
+    text-align: center;
+
+    color: #565656;
+}
+
+.secondarow {
+    justify-content: center;
+
+}
+
+.thirdarow {
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.Pheading {
+
+    margin: 20px auto;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.Pdesc {
+
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0 auto;
+}
+
+
+.fourtharow {
+    justify-content: center;
+}
+
+.Pcard {
+    margin: 20px 40px 0 50px;
+}
+
+.Cardno {
+    font-weight: 600;
+    font-size: 37px;
+    line-height: 24px;
+    /* identical to box height, or 65% */
+
+    display: flex;
+    align-items: center;
+
+    /* 1 */
+
+    color: #CE3838;
+}
+
+.CardHeading {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 20px;
+    /* or 80% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.CardDesc {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+
+
+    color: #000000;
+}

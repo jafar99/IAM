@@ -24,7 +24,7 @@ const Products = () => {
                     </Row>
 
                 </Col>
-                <Col span={12} className="productRow1">
+                <Col span={11} className="productRow1">
                     <Row className='product1'>
                     PRODUCTS
                     </Row>

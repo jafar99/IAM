@@ -42,7 +42,7 @@
     font-style: normal;
     font-weight: 200;
     font-size: 23px;
-    line-height: 24px;
+    line-height: 24px; 
     /* identical to box height, or 114% */
 
 
@@ -67,7 +67,7 @@ padding: 10px;
 }
 
 .productRow1{
-    margin: 170px 30px 30px 40px ;
+    margin: 170px 30px 30px 70px ;
 }
 
 .productdesc2{
@@ -85,6 +85,7 @@ color: #565656;
 .list{
     font-size: 22px;
     padding: 30px;
+    
 }
 
 .list:hover{
