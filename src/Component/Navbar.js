@@ -4,7 +4,7 @@ import '../Component/Navbar.css'
 const Navbar = () => {
   return (
     <div>
-        <div className='navbar'>
+        <div id='navbar'>
           
            <div >
               <img src="./KIAM 1.png" alt="" className='img' />

@@ -108,3 +108,89 @@
 
     color: #000000;
 }
+
+.brandinfo {
+
+    margin-top: 60px;
+}
+.brandAssociation{
+    margin-top: 60px;
+}
+.brand {
+    font-weight: 600;
+    font-size: 2.3rem;
+    line-height: 41px;
+    /* or 111% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+    margin: 0 30%;
+    justify-content: center;
+
+}
+
+
+.brandleft {
+
+
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.brandname {}
+
+.brandimages {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 0px 500px 500px 0px;
+    height: 200px;
+    width: 350px
+}
+
+.brandimg {
+    padding: 15px 15px 15px 35px;
+}
+
+.brandid {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #000000;
+}
+
+.brandesc{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+
+
+width: 430px;
+
+color: #565656;
+}
+
+.brandimg1 {
+   
+    margin: 50px 90px  ;
+}
+
+.partner{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 24px;
+/* identical to box height, or 65% */
+
+text-transform: uppercase;
+
+color: #000000;
+margin: 100px auto 30px auto;
+}
