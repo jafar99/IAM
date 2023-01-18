@@ -105,33 +105,77 @@ const AboutUs = () => {
                 </Col>
                 <Col span={12} >
 
+                    <Row>
+                    <Col span={4} className="brandbg113">
+                            <img className='brandbgimg1' src="./6.svg" alt="" />
+                        </Col>
+                        <Col span={4} className="brandbg11">
+                            <img className='brandbgimg1' src="./7.svg" alt="" />
+                        </Col>
+
+                        <Col span={4} className="brandbg114">
+                            <img className='brandbgimg1' src="./6.svg" alt="" />
+                        </Col>
+
+
+                    </Row>
+                    <Row>
+                        <Col span={4} className="brandbg">
+
+                            <img className='brandbgimg1' src="./7.svg" alt="" />
+                        </Col>
+                        
+                        <Col  className="brandhighlight" >
+                            <div className="brandbg25">
+                            <img className='brandbgimg15' src="./13.svg" alt="" />
+                            </div>
+                        </Col>
+                        <Col span={4} className="brandbg123">
+                            <img className='brandbgimg19' src="./8.svg" alt="" />
+                        </Col>
+
+                    </Row>
+                    <Row>
+                        <Col span={4} className="brandbg133" >
+
+                            <img className='brandbgimg' src="./6.svg" alt="" />
+                        </Col>
+                        <Col span={4} className="brandbg13">
+                            <img className='brandbgimg1' src="./7.svg" alt="" />
+                        </Col>
+
+                        <Col span={4} className="brandbg143">
+                            <img className='brandbgimg1' src="./6.svg" alt="" />
+                        </Col>
+                      
+                    </Row>
 
                 </Col>
             </Row>
-            
-            <Row>
-              <h1 className='partner'>OUR TECHNOLGY PARTNERS</h1>    
-            <Marquee speed="50" style={{margin:"30px"}} pauseOnClick="false">
-            <img src="./.svg" alt="" className='brandimg1'  />
-            <img src="./9.svg" alt="" className='brandimg1' />
-            <img src="./10.svg" alt="" className='brandimg1' />
-            <img src="./11.svg" alt="" className='brandimg1' />
-            <img src="./12.svg" alt="" className='brandimg1' />
-            <img src="./9.svg" alt="" className='brandimg1' />
-            <img src="./10.svg" alt="" className='brandimg1' />
-            <img src="./11.svg" alt="" className='brandimg1' />
-            <img src="./12.svg" alt="" className='brandimg1' />
-            <img src="./10.svg" alt="" className='brandimg1' />
-            <img src="./12.svg" alt="" className='brandimg1' />
-            
 
-            </Marquee>
+            <Row>
+                <h1 className='partner'>OUR TECHNOLGY PARTNERS</h1>
+                <Marquee speed="50" style={{ margin: "30px" }} pauseOnClick="false">
+                    <img src="./.svg" alt="" className='brandimg1' />
+                    <img src="./9.svg" alt="" className='brandimg1' />
+                    <img src="./10.svg" alt="" className='brandimg1' />
+                    <img src="./11.svg" alt="" className='brandimg1' />
+                    <img src="./12.svg" alt="" className='brandimg1' />
+                    <img src="./9.svg" alt="" className='brandimg1' />
+                    <img src="./10.svg" alt="" className='brandimg1' />
+                    <img src="./11.svg" alt="" className='brandimg1' />
+                    <img src="./12.svg" alt="" className='brandimg1' />
+                    <img src="./10.svg" alt="" className='brandimg1' />
+                    <img src="./12.svg" alt="" className='brandimg1' />
+
+
+                </Marquee>
 
             </Row>
-           
 
-                
-           
+
+
+
 
         </div>
     )

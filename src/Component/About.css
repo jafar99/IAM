@@ -111,11 +111,13 @@
 
 .brandinfo {
 
-    margin-top: 60px;
+    margin-top: 8rem;
 }
-.brandAssociation{
-    margin-top: 60px;
+
+.brandAssociation {
+    margin-top: 4rem;
 }
+
 .brand {
     font-weight: 600;
     font-size: 2.3rem;
@@ -136,7 +138,7 @@
 
 
     margin-left: 20%;
-    margin-top: 30px;
+    margin-top: 10rem;
 }
 
 .brandname {}
@@ -163,34 +165,171 @@
     color: #000000;
 }
 
-.brandesc{
+.brandesc {
     font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 160%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
 
 
-width: 430px;
+    width: 430px;
 
-color: #565656;
+    color: #565656;
 }
 
 .brandimg1 {
-   
-    margin: 50px 90px  ;
+
+    margin: 50px 90px;
 }
 
-.partner{
+.partner {
     font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 37px;
-line-height: 24px;
-/* identical to box height, or 65% */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 37px;
+    line-height: 24px;
+    /* identical to box height, or 65% */
 
-text-transform: uppercase;
+    text-transform: uppercase;
 
-color: #000000;
-margin: 100px auto 30px auto;
+    color: #000000;
+    margin: 100px auto 30px auto;
+}
+
+.brandbg {
+
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 50px 50px 30px 30px;
+}
+.brandbg123 {
+
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 50px 50px 30px 50px;
+}
+
+.brandbgimg {
+    padding: 30px 15px 15px 35px;
+
+}
+
+.brandbgimg1 {
+    padding: 50px 15px 15px 35px;
+    height: 30px;
+}
+
+.brandbgimg19 {
+    padding: 45px 15px 20px 55px;
+    height: 40px;
+}
+
+.brandbg11 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 30px;
+    margin-left: 50px;
+}
+
+.brandbg13 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 70px 30px 30px 40px;
+    margin-left: 50px;
+}
+
+.brandbgimg15 {
+    padding: 30px 15px 15px 38px;
+    height: 70px;
+}
+
+.brandbg25 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 150px;
+    margin: 30px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.brandhighlight {
+    width: 300px;
+    height: 250px;
+    padding: 20px 40px;
+    border-radius: 50%;
+    margin: 0px 0px 10px 0px;
+    background: rgba(219, 0, 0, 0.12);
+}
+
+.brandbg113 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 100px 30px 30px 40px;
+    margin-left: 50px;
+}
+
+.brandbg114 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 100px 30px 30px 40px;
+    margin-left: 50px;
+}
+
+.brandbg133 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 10px 30px 30px 20px;
+    margin-left: 50px;
+}
+
+.brandbg143 {
+    background: #FFFFFF;
+    /* Shadow_1 */
+
+    box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    height: 130px;
+    width: 50px;
+    margin: 10px 30px 30px 30px;
+    margin-left: 50px;
 }

@@ -1,0 +1,79 @@
+.contact {
+
+    background-image: url('../Images//contact.png');
+    height: 45rem;
+    font-family: 'Inter';
+    font-style: normal;
+    color: white;
+    width: 100%;
+
+
+}
+
+.firstarow1 {
+
+    justify-content: center;
+
+
+}
+
+.Aheading1 {
+    font-size: 2rem;
+    margin: 3rem auto 0 auto;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 24px;
+
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+
+
+.Apara1 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 13px;
+    margin-top: 1rem;
+    /* margin: 10px 18% 0 18%; */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.input{
+
+    justify-content: center;
+    padding: 10px;
+    margin: 20px auto ;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 29rem;
+  
+   
+}
+
+.form{
+   
+    margin-top: 10px;
+   
+  
+}
+
+.submitbtn{
+
+    
+    padding: 15px 40px;
+    border-radius: 8px;
+    color: white;
+    margin: 10px 0  0 35%;
+    background-color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+.contactform{
+    display: flex;
+    justify-content: center;
+}
